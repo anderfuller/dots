@@ -149,7 +149,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] =
       UC_MOD,  KC_Q,    KC_SPAW, KC_SPAE, KC_R,    KC_T,    KC_Y,    KC_SPAU, KC_SPAI, KC_SPAO, KC_P,    KC_NO,
       KC_ESC,  KC_SPAA, KC_S,    KC_D,    KC_F,    KC_G,    KC_H,    KC_J,    KC_K,    KC_L,    KC_SCLN, KC_ENT,
       KC_LSPO, KC_Z,    KC_X,    KC_C,    KC_V,    KC_B,    KC_SPAN, KC_M,    KC_COMM, KC_DOT,  KC_SPAQ, KC_RSPC,
-      KC_LCLB, KC_LCBR, KC_LABK, KC_LGUI, KC_MONL, KC_SPC,  KC_QUOT, KC_MOFL, KC_TRNS, KC_RABK, KC_RCBR, KC_RARB
+      KC_LCLB, KC_LCBR, KC_LABK, KC_LGUI, KC_MONL, KC_SPC,  KC_QUOT, KC_MOFL, KC_TRNS, KC_RABK, KC_RCBR, KC_LARB
     ),
 
     /* Gaming Layer / Layer 2
